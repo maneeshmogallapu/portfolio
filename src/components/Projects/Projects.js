@@ -8,6 +8,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import crm from "../../Assets/Projects/crm.png";
 import cart from "../../Assets/Projects/cart.png";
 import github from "../../Assets/Projects/github.png";
+import portfolio from "../../Assets/Projects/portfolio.png";
 
 
 function Projects() {
