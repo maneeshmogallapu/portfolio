@@ -34,11 +34,10 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={cart}
-              isBlog={false}
-              title="online cart"
-              description="In this project we know how to handle api and access the data; we handle pexel api take laptop images to use for product images;"
-              link="https://github.com/maneeshmogallapu/online-cart"
+              imgPath={portfolio}
+              title="Portfolio"
+              description="In this project I have created a portfolio website for myself where I can display all my skills, projects, and my Resume at one place and I have used react for developing this project "
+              link="https://github.com/maneeshmogallapu/portfolio"
             />
           </Col>
 
@@ -49,6 +48,15 @@ function Projects() {
               title="Github repo finder"
               description="In this project we have user authication using firebase and geting details using github api."
               link="https://github.com/maneeshmogallapu/github"
+            />
+          </Col>
+         <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={cart}
+              isBlog={false}
+              title="online cart"
+              description="In this project we know how to handle api and access the data; we handle pexel api take laptop images to use for product images"
+              link="https://github.com/maneeshmogallapu/online-cart"
             />
           </Col>
         </Row>
