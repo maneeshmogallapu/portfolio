@@ -19,7 +19,7 @@ function Home2() {
               <br />
               <br />I can work on
               <i>
-                <b className="purple"> java, Python and Javascript. </b>
+                <b className="purple">Java, Javascript, Django, and Reactjs. </b>
               </i>
               <br />
               <br />
