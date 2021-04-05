@@ -78,6 +78,16 @@ function Home2() {
                   <i className="fab fa-instagram"></i>
                 </a>
               </li>
+              <li className="social-icons">
+                <a
+                  href="mailto:maneeshmogallapu@gmail.com?subject=Mail from our Website"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <i className="fa fa-envelope"></i>
+                </a>
+              </li>
             </ul>
           </Col>
         </Row>
