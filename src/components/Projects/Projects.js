@@ -6,7 +6,7 @@ import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import crm from "../../Assets/Projects/crm.gif";
-import cart from "../../Assets/Projects/cart.png";
+import cart from "../../Assets/Projects/cart.gif";
 import github from "../../Assets/Projects/github.gif";
 import portfolio from "../../Assets/Projects/portfolio.gif";
 
