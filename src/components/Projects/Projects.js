@@ -5,9 +5,9 @@ import Particle from "../Particle";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import crm from "../../Assets/Projects/crm.png";
+import crm from "../../Assets/Projects/crm.gif";
 import cart from "../../Assets/Projects/cart.png";
-import github from "../../Assets/Projects/github.png";
+import github from "../../Assets/Projects/github.gif";
 import portfolio from "../../Assets/Projects/portfolio.png";
 
 
