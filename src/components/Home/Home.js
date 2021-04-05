@@ -30,7 +30,7 @@ function Home() {
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
-              <img style={{objectFit:"cover"}}src={homeLogo} alt="home pic" className="img-fluid king" />
+              <img src={homeLogo} alt="home pic" className="img-fluid king" />
             </Col>
           </Row>
         </Container>
