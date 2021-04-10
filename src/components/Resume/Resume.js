@@ -35,7 +35,7 @@ function Resume() {
                   "ReactJS developer Bootcamp – Learn code online",
                   "FullStack Django Developer – Learn code online",
                   "Problem Solving (Basic)-HackerRank",
-                  "Java (Basic)-HackerRank(view)",
+                  "Java (Basic)-HackerRank",
                 ]}
               />
             
