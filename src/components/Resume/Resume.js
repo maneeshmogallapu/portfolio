@@ -57,7 +57,7 @@ function Resume() {
             <Resumecontent
               title="HIGH SCHOOL | SRI CHAITHANYA HIGH SCHOOL "
               date="2015 "
-              content={["GPA: 7.91"]}
+              content={["GPA: 8.7"]}
             />
           </Col>
         </Row>
