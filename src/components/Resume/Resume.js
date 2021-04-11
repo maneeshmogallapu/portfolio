@@ -47,7 +47,7 @@ function Resume() {
             <Resumecontent
               title="M.Tech (software Engineering) | VIT-AP "
               date="2017 – PRESENT"
-              content={[`CGPA: 7.89 (Till 7th Sem)`]}
+              content={[`CGPA: 7.91 (Till 7th Sem)`]}
             />
             <Resumecontent
               title="Intermediate | SRI CHAITHANYA JUNIOR COLLEGE"
