@@ -15,7 +15,7 @@ function Resume() {
       <Container>
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button variant="primary" href={pdf} target="_blank">
-            <i className="fas fa-download">&nbsp;</i>Download CV
+            <i className="fas fa-download">&nbsp;</i>Download Resume
           </Button>
         </Row>
         <Row className="resume">
@@ -35,7 +35,7 @@ function Resume() {
                   "ReactJS developer Bootcamp – Learn code online",
                   "FullStack Django Developer – Learn code online",
                   "Problem Solving (Basic)-HackerRank",
-                  "Java (Basic)-HackerRank(view)",
+                  "Java (Basic)-HackerRank",
                 ]}
               />
             
@@ -52,18 +52,18 @@ function Resume() {
             <Resumecontent
               title="Intermediate | SRI CHAITHANYA JUNIOR COLLEGE"
               date="2015 – 2017 "
-              content={["Precentage: 86%"]}
+              content={[`Precentage: 86%`]}
             />
             <Resumecontent
               title="HIGH SCHOOL | SRI CHAITHANYA HIGH SCHOOL "
               date="2015 "
-              content={["GPA: 7.91"]}
+              content={[`GPA: 8.7`]}
             />
           </Col>
         </Row>
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button variant="primary" href={pdf} target="_blank">
-            <i className="fas fa-download">&nbsp;</i>Download CV
+            <i className="fas fa-download">&nbsp;</i>Download Resume
           </Button>
         </Row>
       </Container>
