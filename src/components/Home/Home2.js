@@ -25,7 +25,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I am a Student at VIT-AP pursuing M.Tech( software engineering ). I am intersted in web development ,I’m currently learning react js.🤷‍♂️
+            A computer computer science Student at VIT-AP with a passion for solving problems and learning new things.🤷‍♂️
               <br />
               <br />I can work on
               <i>
